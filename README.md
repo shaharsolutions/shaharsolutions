@@ -44,15 +44,21 @@ HTML • CSS • JavaScript • Google Apps Script • GitHub Pages • Supabase
 
 ## Featured Projects
 
-- WhatsApp Link Generator
-- Digital Solutions Website
-- Learning Management Interfaces
-- Quote Generator
-- Sales Tools
-- Storyline to Google Sheets Integrations
-- Excel Data Tools
-- Small Business Web Tools
-- Data-driven Business Interfaces
+- **Quote Generation System** - a web-based system for creating structured business proposals, pricing tables, editable quote content, digital signatures, and client-facing documents
+
+- **Dog Boarding Management System** - a web-based management system for handling dog boarding reservations, customer details, availability, operational workflows, and business data
+
+- **Learning Management Interface** - a digital interface for managing learners, groups, course status, progress tracking, reporting, and training administration
+
+- **Storyline 360 to Database Integration** - practical integrations that connect Storyline 360 learning modules with external data sources, enabling tracking, reporting, and custom learning flows
+
+- **CRM & Sales Workflow Tools** - tools designed to improve sales workflows, follow-ups, customer communication, WhatsApp links, lead handling, and proposal processes
+
+- **Information Security Learning Modules** - interactive digital training experiences focused on information security, employee awareness, compliance, and organizational learning
+
+- **Database-Driven Business Interfaces** - web interfaces that rely on structured data, including user management, records, statuses, dashboards, and reporting workflows
+
+- **AI-Assisted Productivity Tools** - practical tools that use AI to simplify writing, planning, development, sales communication, and daily business tasks
 
 ## Current Focus
 
