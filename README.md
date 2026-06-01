@@ -31,9 +31,13 @@ HTML • CSS • JavaScript • Google Apps Script • GitHub Pages • Storylin
 
 ## GitHub Stats
 
-![Shahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaharsolutions&show_icons=true&theme=default)
+<a href="https://github.com/shaharsolutions">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaharsolutions&show_icons=true&theme=default" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharsolutions&layout=compact&theme=default)
+<a href="https://github.com/shaharsolutions">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharsolutions&layout=compact&theme=default" />
+</a>
 
 ## Featured Projects
 
